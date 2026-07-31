@@ -1,12 +1,9 @@
 # Terms of Service
 
-**LVRHealth — Terms of Service**  
-**Effective date:** 30 July 2026
-
 ---
 
 ## 1. Agreement
-These Terms of Service ("Terms") are a legal agreement between you and **【Provider legal name / individual name】** ("we", "us", "our"), the provider of the LVRHealth mobile application ("App"). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
+These Terms of Service ("Terms") are a legal agreement between you and **LVRHealth** ("we", "us", "our"), the provider of the LVRHealth mobile application ("App"). By downloading, installing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
 ## 2. Not Medical Advice
 LVRHealth is a personal tool to help you record and track your medication doses, appointments, and lab results. It is not a medical device and does not provide medical advice, diagnosis, or treatment.
