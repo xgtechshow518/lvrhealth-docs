@@ -1,8 +1,5 @@
 # Privacy Policy
 
-**LVRHealth — Privacy Policy**  
-**Effective date:** 30 July 2026
-
 ---
 
 ## 1. Overview
