@@ -58,4 +58,4 @@ We may update this policy from time to time. Material changes will be reflected 
 
 ## 13. Contact
 For privacy questions or requests:  
-📧 **xgtechshow@gmail.com**  
+📧 **hello@awkiss.com**  
