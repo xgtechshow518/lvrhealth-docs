@@ -47,8 +47,8 @@ Your data is stored on your device. You are responsible for maintaining your own
 We may update the App and these Terms from time to time. Material changes will be reflected by updating the effective date. Your continued use after changes take effect constitutes acceptance.
 
 ## 11. Governing Law
-These Terms are governed by the laws of **【State/Country — e.g., New South Wales, Australia】**, without regard to conflict-of-law rules, and subject to any mandatory consumer protections in your country of residence.
+These Terms are governed by the laws of Australia, without regard to conflict-of-law rules, and subject to any mandatory consumer protections in your country of residence.
 
 ## 12. Contact
 Questions about these Terms:  
-📧 **xgtechshow@gmail.com**
+📧 **hello@awkiss.com**
